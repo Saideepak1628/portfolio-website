@@ -39,23 +39,23 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Louisville,KY",
     description:
-      "Developed and optimized a SaaS web app using React.js, Node.js, Express.js, MongoDB, and GraphQL to enhance system performance. Deployed serverless applications on AWS with Docker & Kubernetes for scalability and reliability. Implemented CI/CD pipelines, OAuth 2.0 security, and database optimizations to improve efficiency, security, and seamless integration of microservices",
+      "Developed and optimized a SaaS-based web application using Angular, C#, ASP.NET, and .NET Core, enhancing performance and improving API response time. Designed and deployed scalable, serverless applications on AWS (Lambda, EC2, S3, RDS) using Docker and Kubernetes, optimizing infrastructure costs while ensuring high availability.",
     icon: React.createElement(LuCodepen),
     date: "2023 - Present",
   },
   {
-    title: "Front-End Developer",
+    title: "Graduate Assistant",
     location: "Louisville, KY",
     description:
-      "Engineered and implemented interactive SPAs using React.js, Next.js, Redux, and TypeScript, ensuring responsive, high-performance UIs. Integrated RESTful APIs, Redux, and Context API for efficient state management and dynamic data handling. Collaborated in an Agile environment, conducted testing with Jest, and deployed applications using Vercel, Netlify, and Git with secure authentication.",
+      "Developed responsive, mobile-first web pages using HTML, CSS, JavaScript, Bootstrap, and Angular, enhancing UI performance and client-side efficiency. Designed and integrated C# .NET Core backend APIs, implemented JWT authentication, and deployed applications on Vercel/Netlify, ensuring scalability and seamless deployment.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - 2024",
+    date: "2023 - Present",
   },
   {
     title: "Software Engineer",
     location: "Chennai, TN",
     description:
-      "Developed end-to-end industrial project management solutions using Python, Django, React.js, and PostgreSQL, ensuring seamless data management and API integration. Implemented AI-driven safety protocols with IoT cameras and sensors, enhancing workplace security and compliance. Engineered scalable cloud infrastructure on AWS, optimized system performance, and maintained CI/CD pipelines for efficient development and deployment",
+      "Developed C#, ASP.NET Core, and .NET MVC applications using Razor Pages, optimizing PostgreSQL data handling and implementing Clean Architecture for maintainability. Built scalable cloud infrastructure on AWS, integrated ASP.NET Core Identity with JWT OAuth 2.0 for security, and automated CI/CD pipelines for seamless deployments.",
     icon: React.createElement(FaReact),
     date: "2021 - 2023",
   },
