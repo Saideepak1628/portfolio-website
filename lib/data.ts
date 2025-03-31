@@ -37,11 +37,11 @@ export const links = [
 export const experiencesData = [
   {
     title: "Software Engineer",
-    location: "Louisville,KY",
+    location: "Louisville, KY",
     description:
       "Developed and optimized a SaaS-based web application using Angular, C#, ASP.NET, and .NET Core, enhancing performance and improving API response time. Designed and deployed scalable, serverless applications on AWS (Lambda, EC2, S3, RDS) using Docker and Kubernetes, optimizing infrastructure costs while ensuring high availability.",
     icon: React.createElement(LuCodepen),
-    date: "2023 - Present",
+    date: "2024 - Present",
   },
   {
     title: "Graduate Assistant",
@@ -57,7 +57,7 @@ export const experiencesData = [
     description:
       "Developed C#, ASP.NET Core, and .NET MVC applications using Razor Pages, optimizing PostgreSQL data handling and implementing Clean Architecture for maintainability. Built scalable cloud infrastructure on AWS, integrated ASP.NET Core Identity with JWT OAuth 2.0 for security, and automated CI/CD pipelines for seamless deployments.",
     icon: React.createElement(FaReact),
-    date: "2021 - 2023",
+    date: "2020 - 2023",
   },
 ] as const;
 
