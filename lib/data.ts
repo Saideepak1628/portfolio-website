@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Louisville, KY",
     description:
-      "Developed and optimized a SaaS-based web application using Angular, C#, ASP.NET, and .NET Core, enhancing performance and improving API response time. Designed and deployed scalable, serverless applications on AWS (Lambda, EC2, S3, RDS) using Docker and Kubernetes, optimizing infrastructure costs while ensuring high availability.",
+      "Developed and optimized a SaaS-based web application using Angular, C#, ASP.NET, and .NET Core, enhancing performance and improving API response time. Designed, containerized, and deployed scalable applications on Microsoft Azure (App Services, Azure Functions, SQL Database, Application Insights) using Docker and Kubernetes, optimizing infrastructure costs while ensuring high availability.",
     icon: React.createElement(LuCodepen),
     date: "2024 - Present",
   },
